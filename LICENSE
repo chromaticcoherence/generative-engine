@@ -1,0 +1,36 @@
+Chromatic Coherence — generative-engine Licence (2026)
+
+Copyright (c) 2026 Chromatic Coherence. All rights reserved.
+
+This software ("the Software") is source-available but is NOT open source.
+It is licensed, not sold. Downloading or installing it (for example from npm)
+grants no rights beyond those written below, and does not transfer ownership.
+
+1. FREE LICENCE — no cost, perpetual — granted to:
+     * individuals, for personal or non-commercial use;
+     * registered charities and non-profit organisations;
+     * small businesses — an organisation with fewer than 25 people AND under
+       £1,000,000 in annual gross revenue.
+   A Free Licence lets you install the Software and use it AS-IS, embedded
+   inside your own application, and distribute it only as an inseparable part
+   of that application.
+
+2. COMMERCIAL LICENCE — required by any organisation not covered by clause 1
+   (an "SME or Enterprise"). A one-off fee of £100 per organisation grants a
+   perpetual Commercial Licence covering all of that organisation's products.
+   Contact hello@chromaticcoherence.ai.
+
+3. In no case, and under no licence, may you:
+     * modify, adapt, translate, or create derivative works of the Software;
+     * reverse-engineer, decompile, or disassemble it, except to the extent
+       that right cannot lawfully be excluded;
+     * resell, relicense, sublicense, rent, or redistribute the Software on its
+       own — as a package, fork, component, or competing library;
+     * remove or alter this licence or any copyright or authorship notice.
+
+4. NO WARRANTY. The Software is provided "AS IS", without warranty of any kind,
+   express or implied. To the fullest extent permitted by law, Chromatic
+   Coherence accepts no liability for any claim, damage, or loss arising from
+   the Software or its use.
+
+For commercial licensing, contact hello@chromaticcoherence.ai.
